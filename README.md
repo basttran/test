@@ -4,4 +4,7 @@ test repository for testing purpose.
 Rstudio/Github workflow
 =======================
 
+Becase that's how I'll go from now on!
+-----------------------
+
 
